@@ -11,3 +11,4 @@
 # git restore --staged .\README.md 
 
 * comando git push
+* git pull command git feee
