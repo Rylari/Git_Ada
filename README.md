@@ -19,3 +19,4 @@
 * git log --oneline --decorate
 
 # git checkout testing # colocando para qual branch ir 
+s
